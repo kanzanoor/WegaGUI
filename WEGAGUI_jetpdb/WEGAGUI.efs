@@ -1,0 +1,10 @@
+1
+"."
+1
+  DIR "dist" "dist" HIDDEN
+  2
+    DIR "lib" "dist/lib" HIDDEN
+    2
+      FILE "beansbinding-1.2.1.jar" "/home/n00r/NetBeansProjects/WEGAGUI/WEGAGUI_jetpdb/tmpres/beansbinding-1.2.1__2.jar" HIDDEN
+      FILE "AbsoluteLayout.jar" "/home/n00r/NetBeansProjects/WEGAGUI/WEGAGUI_jetpdb/tmpres/AbsoluteLayout__1.jar" HIDDEN
+    FILE "WEGAGUI.jar" "/home/n00r/NetBeansProjects/WEGAGUI/WEGAGUI_jetpdb/tmpres/WEGAGUI__0.jar" HIDDEN

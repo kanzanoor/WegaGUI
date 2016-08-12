@@ -1,0 +1,51 @@
+%%Excelsior JET v11.0 project file
+
+-compilewithfixedheap-
+-genstackalloc+
+-genstacktrace-
+-global-
+-gui-
+-ignoreclassduplication+
+-ignorememberabsence+
+-inline+
+-jetcpenablemanualsettings+
+-multiapp-
+-splashgetfrommanifest-
+
+-apptype=Plain
+-classabsence=HANDLE
+-compilerheap=1744830464
+-inlinelimit=100
+-inlinetolimit=1000
+-jetcplastpage:=PageCompile
+-jetrt=Desktop
+-jetvmprop=-Djet.gc.heaplimit:0 -Djet.stack.trace
+-main=guiPackage/StartGUI
+-outputdir=.
+-outputname=WEGAGUI
+-saprofmode=JETCPONLY
+-saproftimeout=20
+-splash=../../Downloads/cresset-logo.jpeg
+-stacklimit=900000
+-startupprofile=./WEGAGUI.startup
+
+
+
+
+!classpathentry ./dist/WEGAGUI.jar
+  -pack=noncompiled
+  -protect=all
+  -optimize=all
+!end
+!classpathentry ./dist/lib/AbsoluteLayout.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ./dist/lib/beansbinding-1.2.1.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+
+
